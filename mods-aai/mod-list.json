@@ -1,0 +1,121 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": false
+    },
+    
+    {
+      "name": "quality",
+      "enabled": false
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": false
+    },
+    
+    {
+      "name": "aai-containers",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-loaders",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signal-transmission",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-flame-tumbler",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-ironclad",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": true
+    },
+    
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    
+    {
+      "name": "equipment-gantry",
+      "enabled": true
+    },
+    
+    {
+      "name": "informatron",
+      "enabled": true
+    },
+    
+    {
+      "name": "shield-projector",
+      "enabled": true
+    }
+  ]
+}
