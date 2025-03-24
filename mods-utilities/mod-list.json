@@ -36,6 +36,11 @@
     {
       "name": "flib",
       "enabled": true
+    },
+    
+    {
+      "name": "nixie-tubes",
+      "enabled": true
     }
   ]
 }

@@ -68,6 +68,11 @@
             "ee-super-radar": "RadarRendering",
             "ee-super-roboport": "RoboportRendering",
             "ee-super-substation": "ElectricPoleRendering"
+        },
+        "Nixie Tubes": {
+            "nixie-tube": "LampRendering",
+            "nixie-tube-alpha": "LampRendering",
+            "nixie-tube-small": "LampRendering"
         }
     },
     "tiles": {}
