@@ -70,9 +70,9 @@
             "ee-super-substation": "ElectricPoleRendering"
         },
         "Nixie Tubes": {
-            "nixie-tube": "LampRendering",
-            "nixie-tube-alpha": "LampRendering",
-            "nixie-tube-small": "LampRendering"
+            "nixie-tube": "nixietubes.NixieTubeRendering",
+            "nixie-tube-alpha": "nixietubes.NixieTubeAlphaRendering",
+            "nixie-tube-small": "nixietubes.NixieTubeSmallRendering"
         }
     },
     "tiles": {}
