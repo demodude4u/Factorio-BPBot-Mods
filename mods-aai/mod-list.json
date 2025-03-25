@@ -4,26 +4,6 @@
   [
     
     {
-      "name": "base",
-      "enabled": true
-    },
-    
-    {
-      "name": "elevated-rails",
-      "enabled": false
-    },
-    
-    {
-      "name": "quality",
-      "enabled": false
-    },
-    
-    {
-      "name": "space-age",
-      "enabled": false
-    },
-    
-    {
       "name": "aai-containers",
       "enabled": true
     },
@@ -115,6 +95,11 @@
     
     {
       "name": "shield-projector",
+      "enabled": true
+    },
+    
+    {
+      "name": "base",
       "enabled": true
     }
   ]
