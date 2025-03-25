@@ -46,6 +46,16 @@
     {
       "name": "valves",
       "enabled": true
+    },
+
+    {
+      "name": "cybersyn",
+      "enabled": true
+    },
+
+    {
+      "name": "flib",
+      "enabled": true
     }
   ]
 }

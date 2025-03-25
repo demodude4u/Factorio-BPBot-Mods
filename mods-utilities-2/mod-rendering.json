@@ -165,6 +165,9 @@
             "thruster-fuel-color-coded-pipe-to-ground": "PipeToGroundRendering",
             "thruster-fuel-color-coded-pump": "PumpRendering",
             "thruster-fuel-color-coded-storage-tank": "StorageTankRendering"
+        },
+        "Cybersyn": {
+            "cybersyn-combinator": "ArithmeticCombinatorRendering"
         }
     },
     "tiles": {}

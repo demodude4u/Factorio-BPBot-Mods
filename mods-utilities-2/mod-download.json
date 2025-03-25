@@ -3,5 +3,7 @@
     "FluidMustFlow": "1.4.2",
     "pushbutton": "2.0.3",
     "textplates": "0.7.2",
-    "valves": "1.2.0"
+    "valves": "1.2.0",
+    "cybersyn": "2.0.20",
+    "flib": "0.16.2"
 }
