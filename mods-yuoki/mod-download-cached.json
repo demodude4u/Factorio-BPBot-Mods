@@ -1,0 +1,18 @@
+{
+  "yi_engines": {"1.2.7": {
+    "sha1": "c47184dfc2b3f0351543234275ea9db004ad473a",
+    "file_name": "yi_engines_1.2.7.zip",
+    "download_url": "/download/yi_engines/6772ec76ef4345a5520ca65a",
+    "released_at": "2024-12-30T18:54:46.794000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "1.2.7"
+  }},
+  "Yuoki": {"1.2.10": {
+    "sha1": "0473fa808049097df77ed0b066da3bc2e00021e1",
+    "file_name": "Yuoki_1.2.10.zip",
+    "download_url": "/download/Yuoki/67e03ff98a1148bd9f9e9e0d",
+    "released_at": "2025-03-23T17:08:09.550000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "1.2.10"
+  }}
+}

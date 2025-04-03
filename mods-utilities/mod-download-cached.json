@@ -1,0 +1,34 @@
+{
+  "EditorExtensions": {"2.4.2": {
+    "sha1": "5e7f27c9937ef00c4f0e0d1219cdc997b9e0da5a",
+    "file_name": "EditorExtensions_2.4.2.zip",
+    "download_url": "/download/EditorExtensions/675f37544d9302f11e700188",
+    "released_at": "2024-12-15T20:08:52.374000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "2.4.2"
+  }},
+  "nixie-tubes": {"2.0.2": {
+    "sha1": "095dda9b1e67f36722550d5a83a6c60071555d9b",
+    "file_name": "nixie-tubes_2.0.2.zip",
+    "download_url": "/download/nixie-tubes/67aaa97faab23e1dad60c2f1",
+    "released_at": "2025-02-11T01:35:59.780000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "2.0.2"
+  }},
+  "creative-mod": {"2.1.3": {
+    "sha1": "e4a60ae9a25ef5656e1d3cb0b7797659ccfb0367",
+    "file_name": "creative-mod_2.1.3.zip",
+    "download_url": "/download/creative-mod/6758b8bcbba896c80b4cdd3d",
+    "released_at": "2024-12-10T21:55:08.969000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "2.1.3"
+  }},
+  "flib": {"0.16.2": {
+    "sha1": "4557bfff426fea50c6a947db2849d0cfddaf9427",
+    "file_name": "flib_0.16.2.zip",
+    "download_url": "/download/flib/67941e19dc5fef14c6015425",
+    "released_at": "2025-01-24T23:11:21.677000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.16.2"
+  }}
+}

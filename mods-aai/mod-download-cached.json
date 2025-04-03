@@ -1,0 +1,154 @@
+{
+  "aai-zones": {"0.7.2": {
+    "sha1": "326d64f19fa730033356c22336839d13ea05ac2f",
+    "file_name": "aai-zones_0.7.2.zip",
+    "download_url": "/download/aai-zones/676c76ce876e80c846cd1309",
+    "released_at": "2024-12-25T21:19:10.041000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.2"
+  }},
+  "informatron": {"0.4.0": {
+    "sha1": "52afe475c32dcdb79d6ad551f77a14ecf64199e8",
+    "file_name": "informatron_0.4.0.zip",
+    "download_url": "/download/informatron/67105f3f92a53c90652c767a",
+    "released_at": "2024-10-17T00:50:07.939000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.4.0"
+  }},
+  "aai-programmable-structures": {"0.8.2": {
+    "sha1": "9ef78bc11faa8edcdfe70472d430f3c1a67e9387",
+    "file_name": "aai-programmable-structures_0.8.2.zip",
+    "download_url": "/download/aai-programmable-structures/6777665373bf71bc3ab81e33",
+    "released_at": "2025-01-03T04:23:47.153000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.8.2"
+  }},
+  "aai-vehicles-hauler": {"0.7.3": {
+    "sha1": "bbe49e0bef832beee4596ad024a389d81516adb4",
+    "file_name": "aai-vehicles-hauler_0.7.3.zip",
+    "download_url": "/download/aai-vehicles-hauler/6734f2b0030b064bc178cf8d",
+    "released_at": "2024-11-13T18:40:48.070000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.3"
+  }},
+  "aai-loaders": {"0.2.5": {
+    "sha1": "484d864c9cc252f9dcf3b02addb9a510b23109f9",
+    "file_name": "aai-loaders_0.2.5.zip",
+    "download_url": "/download/aai-loaders/674409e5fa720c3ba089867b",
+    "released_at": "2024-11-25T05:23:49.410000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.2.5"
+  }},
+  "aai-programmable-vehicles": {"0.8.1": {
+    "sha1": "95f4e13b46daa0654b6d063820462237c34bea2d",
+    "file_name": "aai-programmable-vehicles_0.8.1.zip",
+    "download_url": "/download/aai-programmable-vehicles/67875bba595f205e3d6f5907",
+    "released_at": "2025-01-15T06:54:50.237000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.8.1"
+  }},
+  "aai-vehicles-warden": {"0.6.4": {
+    "sha1": "4616f746f4adb5c1cb67379d100568040ae439bb",
+    "file_name": "aai-vehicles-warden_0.6.4.zip",
+    "download_url": "/download/aai-vehicles-warden/6736ff92d1cdff2506cf4057",
+    "released_at": "2024-11-15T08:00:18.118000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.6.4"
+  }},
+  "aai-vehicles-chaingunner": {"0.7.2": {
+    "sha1": "7f083db6a97b3ecda4afd8b4cde0acd2a52a43d6",
+    "file_name": "aai-vehicles-chaingunner_0.7.2.zip",
+    "download_url": "/download/aai-vehicles-chaingunner/672fa610afced39fc5a8ffc9",
+    "released_at": "2024-11-09T18:12:32.987000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.2"
+  }},
+  "aai-vehicles-miner": {"0.7.1": {
+    "sha1": "10ddd803fdd920b030d692c15bbdcf1e9247a475",
+    "file_name": "aai-vehicles-miner_0.7.1.zip",
+    "download_url": "/download/aai-vehicles-miner/673e9b1cddb9ea332076c277",
+    "released_at": "2024-11-21T02:29:48.393000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.1"
+  }},
+  "equipment-gantry": {"0.2.3": {
+    "sha1": "17b0c0ceaff4a302bf8c7c98cac7be3c3dcf80fb",
+    "file_name": "equipment-gantry_0.2.3.zip",
+    "download_url": "/download/equipment-gantry/672aecc0318792313ecc683e",
+    "released_at": "2024-11-06T04:12:48.291000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.2.3"
+  }},
+  "aai-industry": {"0.6.7": {
+    "sha1": "4a6b915cb1897494d867d5c62e13d18b287428b8",
+    "file_name": "aai-industry_0.6.7.zip",
+    "download_url": "/download/aai-industry/67e1b3ddc0d7a0a21ba3cff1",
+    "released_at": "2025-03-24T19:34:53.653000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.6.7"
+  }},
+  "aai-containers": {"0.3.1": {
+    "sha1": "47e97645d0f47339cd132df7081c6c501865db57",
+    "file_name": "aai-containers_0.3.1.zip",
+    "download_url": "/download/aai-containers/671acba6b66b003658ce77d6",
+    "released_at": "2024-10-24T22:35:18.268000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.3.1"
+  }},
+  "aai-vehicles-ironclad": {"0.7.5": {
+    "sha1": "b1fc48c1cb95d40c975a24a60155760e938b16ce",
+    "file_name": "aai-vehicles-ironclad_0.7.5.zip",
+    "download_url": "/download/aai-vehicles-ironclad/676cbfa66cb17112b501589c",
+    "released_at": "2024-12-26T02:29:58.178000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.5"
+  }},
+  "aai-vehicles-flame-tank": {"0.6.2": {
+    "sha1": "6aa198e78cdcc2de71338a44f717969f2b437513",
+    "file_name": "aai-vehicles-flame-tank_0.6.2.zip",
+    "download_url": "/download/aai-vehicles-flame-tank/672fa623ea39956001a33cb5",
+    "released_at": "2024-11-09T18:12:51.048000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.6.2"
+  }},
+  "shield-projector": {"0.2.2": {
+    "sha1": "b38f2d3efa04d91550bef133dd103bf6c015f091",
+    "file_name": "shield-projector_0.2.2.zip",
+    "download_url": "/download/shield-projector/67343483e72dc5b3454f9ee2",
+    "released_at": "2024-11-13T05:09:23.511000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.2.2"
+  }},
+  "aai-signal-transmission": {"0.5.0": {
+    "sha1": "025a97a97d989afe338aab7a869b7d54c9e7f49f",
+    "file_name": "aai-signal-transmission_0.5.0.zip",
+    "download_url": "/download/aai-signal-transmission/67105984607d4687b55ce39d",
+    "released_at": "2024-10-17T00:25:40.075000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.5.0"
+  }},
+  "aai-vehicles-flame-tumbler": {"0.7.2": {
+    "sha1": "9a4f72ccf6a416e612005246e4f1a28303957b21",
+    "file_name": "aai-vehicles-flame-tumbler_0.7.2.zip",
+    "download_url": "/download/aai-vehicles-flame-tumbler/672fa608ea39956001a33cb4",
+    "released_at": "2024-11-09T18:12:24.296000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.2"
+  }},
+  "aai-signals": {"0.7.1": {
+    "sha1": "e2b4f966ba2eecfe19b8ecb7d426ff27f64e928e",
+    "file_name": "aai-signals_0.7.1.zip",
+    "download_url": "/download/aai-signals/67500a1b4c42a2b6904ab7ff",
+    "released_at": "2024-12-04T07:51:55.342000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.1"
+  }},
+  "aai-vehicles-laser-tank": {"0.7.4": {
+    "sha1": "c9acd067234297e424673003d272319b418251d6",
+    "file_name": "aai-vehicles-laser-tank_0.7.4.zip",
+    "download_url": "/download/aai-vehicles-laser-tank/676cbf989358af28e85334eb",
+    "released_at": "2024-12-26T02:29:44.823000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "0.7.4"
+  }}
+}
