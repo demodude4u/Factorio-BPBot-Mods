@@ -167,7 +167,8 @@
             "thruster-fuel-color-coded-storage-tank": "StorageTankRendering"
         },
         "Cybersyn": {
-            "cybersyn-combinator": "ArithmeticCombinatorRendering"
+            "cybersyn-combinator": "ArithmeticCombinatorRendering",
+            "cybersyn-constant-combinator": "ConstantCombinatorRendering"
         }
     },
     "tiles": {}

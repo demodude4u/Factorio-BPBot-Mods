@@ -4,6 +4,7 @@
     "pushbutton": "2.0.3",
     "textplates": "0.7.2",
     "valves": "1.2.0",
-    "cybersyn": "2.0.20",
+    "cybersyn": "2.0.26",
+    "cybersyn-combinator": "2.7.3",
     "flib": "0.16.2"
 }

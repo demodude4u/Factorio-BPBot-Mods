@@ -54,6 +54,11 @@
     },
 
     {
+      "name": "cybersyn-combinator",
+      "enabled": true
+    },
+
+    {
       "name": "flib",
       "enabled": true
     }

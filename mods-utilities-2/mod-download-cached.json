@@ -15,14 +15,24 @@
     "info_json": {"factorio_version": "2.0"},
     "version": "1.2.0"
   }},
-  "cybersyn": {"2.0.20": {
-    "sha1": "bf8490bc4faf800605d3eb5bb798618bff50b28d",
-    "file_name": "cybersyn_2.0.20.zip",
-    "download_url": "/download/cybersyn/67d71f3e55feccc251a71c76",
-    "released_at": "2025-03-16T18:58:06.960000Z",
-    "info_json": {"factorio_version": "2.0"},
-    "version": "2.0.20"
-  }},
+  "cybersyn": {
+    "2.0.20": {
+      "sha1": "bf8490bc4faf800605d3eb5bb798618bff50b28d",
+      "file_name": "cybersyn_2.0.20.zip",
+      "download_url": "/download/cybersyn/67d71f3e55feccc251a71c76",
+      "released_at": "2025-03-16T18:58:06.960000Z",
+      "info_json": {"factorio_version": "2.0"},
+      "version": "2.0.20"
+    },
+    "2.0.26": {
+      "sha1": "25ab4c36786059e6b7f1d228cd13652168524ac7",
+      "file_name": "cybersyn_2.0.26.zip",
+      "download_url": "/download/cybersyn/681fcfcefa607e772f651bbf",
+      "released_at": "2025-05-10T22:14:38.251000Z",
+      "info_json": {"factorio_version": "2.0"},
+      "version": "2.0.26"
+    }
+  },
   "color-coded-pipes": {"1.2.3": {
     "sha1": "f001dec064bb2c1005c7671650db63b49ca0fac5",
     "file_name": "color-coded-pipes_1.2.3.zip",
@@ -38,6 +48,14 @@
     "released_at": "2024-12-15T19:43:55.892000Z",
     "info_json": {"factorio_version": "2.0"},
     "version": "1.4.2"
+  }},
+  "cybersyn-combinator": {"2.7.3": {
+    "sha1": "db10b8b4c89437f3619d483edc1b25c3b1ad491b",
+    "file_name": "cybersyn-combinator_2.7.3.zip",
+    "download_url": "/download/cybersyn-combinator/681a4e1dd2ac41e503d6261b",
+    "released_at": "2025-05-06T17:59:57.966000Z",
+    "info_json": {"factorio_version": "2.0"},
+    "version": "2.7.3"
   }},
   "textplates": {"0.7.2": {
     "sha1": "d1d6962c72abd0580394cdbd3a75b679fb87ab26",
