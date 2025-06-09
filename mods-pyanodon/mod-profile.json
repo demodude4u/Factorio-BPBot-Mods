@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "mods": [
+        "pyalienlife",
+        "pyalternativeenergy",
+        "pycoalprocessing",
+        "pyfusionenergy",
+        "pyhightech",
+        "pyindustry",
+        "pypetroleumhandling",
+        "pypostprocessing",
+		"pyrawores",
+		"space-age",
+		"quality",
+		"elevated-rails"
+    ]
+}

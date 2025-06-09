@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "mods": [
+        "creative-mod",
+        "EditorExtensions",
+        "nixie-tubes"
+    ]
+}

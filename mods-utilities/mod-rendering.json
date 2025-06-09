@@ -40,7 +40,7 @@
             "creative-mod_void-chest": "InfinityContainerRendering",
             "creative-mod_void-lab": "LabRendering",
             "creative-mod_void-requester-chest": "InfinityContainerRendering",
-            "creative-mod_void-storage-chest": "InfinityContainerRendering",
+            "creative-mod_void-storage-chest": "InfinityContainerRendering"
         },
         "Editor Extensions": {
             "ee-aggregate-chest": "InfinityContainerRendering",

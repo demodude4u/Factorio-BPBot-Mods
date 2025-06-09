@@ -1,0 +1,23 @@
+{
+	"enabled": true,
+    "mods": [
+        "aai-containers",
+        "aai-industry",
+        "aai-loaders",
+        "aai-programmable-structures",
+        "aai-programmable-vehicles",
+        "aai-signal-transmission",
+        "aai-signals",
+        "aai-vehicles-chaingunner",
+        "aai-vehicles-flame-tank",
+        "aai-vehicles-flame-tumbler",
+        "aai-vehicles-hauler",
+        "aai-vehicles-ironclad",
+        "aai-vehicles-laser-tank",
+        "aai-vehicles-miner",
+		"aai-vehicles-warden",
+		"aai-zones",
+		"equipment-gantry",
+		"shield-projector"
+    ]
+}

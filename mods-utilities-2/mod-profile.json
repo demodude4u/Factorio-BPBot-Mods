@@ -1,0 +1,15 @@
+{
+    "enabled": true,
+    "mods": [
+        "color-coded-pipes",
+        "FluidMustFlow",
+        "pushbutton",
+        "textplates",
+        "valves",
+        "cybersyn",
+        "cybersyn-combinator",
+		"space-age",
+		"quality",
+		"elevated-rails"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "enabled": true,
+    "mods": [
+        "bobassembly",
+        "bobclasses",
+        "bobelectronics",
+        "bobenemies",
+        "bobequipment",
+        "bobgreenhouse",
+        "bobinserters",
+        "boblibrary",
+        "boblogistics",
+        "bobmining",
+        "bobmodules",
+        "bobores",
+        "bobplates",
+        "bobpower",
+		"bobrevamp",
+		"bobtech",
+		"bobvehicleequipment",
+		"bobwarfare"
+    ]
+}
