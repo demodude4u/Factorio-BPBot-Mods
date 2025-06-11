@@ -1,4 +1,24 @@
 {
+    "enabled": true,
+    "mods": [
+        "5dim_energy",
+        "5dim_automation",
+        "5dim_transport",
+        "5dim_mining",
+        "5dim_nuclear",
+        "5dim_battlefield",
+        "5dim_trains",
+        "5dim_logistic",
+        "5dim_resources",
+        "5dim_storage",
+        "5dim_equipment",
+        "5dim_module",
+        "5dim_enemies",
+        "5dim_infiniteresearch",
+        "space-age",
+        "quality",
+        "elevated-rails"
+    ],
     "entities": {
         "5Dim": {
             "5d-accumulator-02": "AccumulatorRendering",
