@@ -15,9 +15,9 @@
   "entities": {
     "Pushbutton": {"pushbutton": "ConstantCombinatorRendering"},
     "Valves": {
-      "valves-one_way": "PumpRendering",
-      "valves-top_up": "PumpRendering",
-      "valves-overflow": "PumpRendering"
+      "valves-one_way": "ValveRendering",
+      "valves-top_up": "ValveRendering",
+      "valves-overflow": "ValveRendering"
     },
     "Color Coded Pipes": {
       "pink-color-coded-pipe": "PipeRendering",
