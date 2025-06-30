@@ -330,6 +330,7 @@
 			"kmauts-enclosure-mk02": "AssemblingMachineRendering",
 			"kmauts-enclosure-mk03": "AssemblingMachineRendering",
 			"kmauts-enclosure-mk04": "AssemblingMachineRendering",
+			"lab": "LabRendering",
 			"leaching-station-mk01": "AssemblingMachineRendering",
 			"leaching-station-mk02": "AssemblingMachineRendering",
 			"leaching-station-mk03": "AssemblingMachineRendering",
@@ -776,8 +777,5 @@
 			"sut-panel",
 			"yellow-refined-concrete"
 		]
-	},
-	"TODO": {
-		"lab": "LabRendering"
 	}
 }
