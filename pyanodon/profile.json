@@ -539,7 +539,6 @@
 			"py-ze-mk02": "RoboportRendering",
 			"py-ze-mk03": "RoboportRendering",
 			"py-ze-mk04": "RoboportRendering",
-			"pydrive": "LinkedContainerRendering",
 			"pyphoon-bay": "AssemblingMachineRendering",
 			"quantum-computer": "AssemblingMachineRendering",
 			"quartz-mine": "MiningDrillRendering",
