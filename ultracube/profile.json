@@ -4,42 +4,19 @@
     "Ultracube = 0.6.9",
     "elevated-rails"
   ],
-  "entities": {"Ultracube": {
-    "aai-v2-loader": "Loader1x1Rendering",
-    "aai-v3-loader": "Loader1x1Rendering",
-    "aai-v4-loader": "Loader1x1Rendering",
-    "cube-annihilation-chamber": "AssemblingMachineRendering",
-    "cube-antimatter-reactor": "ElectricEnergyInterfaceRendering",
-    "cube-beacon": "BeaconRendering",
-    "cube-big-container": "BasicContainerRendering",
-    "cube-crusher": "FurnaceRendering",
-    "cube-cyclotron": "AssemblingMachineRendering",
-    "cube-deep-core-ultradrill": "MiningDrillRendering",
-    "cube-dimension-folding-engine": "AssemblingMachineRendering",
-    "cube-electric-mining-drill-mk2": "MiningDrillRendering",
-    "cube-energy-bulkframe": "AccumulatorRendering",
-    "cube-experimental-teleporter": "RocketSiloRendering",
-    "cube-extremely-long-inserter": "InserterRendering",
-    "cube-fabricator": "AssemblingMachineRendering",
-    "cube-fluid-burner": "FurnaceRendering",
-    "cube-fluid-storage-1": "StorageTankRendering",
-    "cube-fluid-storage-2": "StorageTankRendering",
-    "cube-forbidden-ziggurat": "AssemblingMachineRendering",
-    "cube-fuel-refinery": "AssemblingMachineRendering",
-    "cube-greenhouse": "AssemblingMachineRendering",
-    "cube-lab": "LabRendering",
-    "cube-medium-container": "BasicContainerRendering",
-    "cube-mystery-furnace": "FurnaceRendering",
-    "cube-particle-phase-aligner": "FurnaceRendering",
-    "cube-quantum-decoder": "FurnaceRendering",
-    "cube-recovery-bay": "FurnaceRendering",
-    "cube-roboport": "RoboportRendering",
-    "cube-stygian-energy-lab": "AssemblingMachineRendering",
-    "cube-synthesizer": "AssemblingMachineRendering",
-    "cube-ultradense-furnace": "AssemblingMachineRendering",
-    "cube-v4-splitter": "SplitterRendering",
-    "cube-v4-transport-belt": "TransportBeltRendering",
-    "cube-v4-underground-belt": "UndergroundBeltRendering"
-  }},
-  "tiles": {}
+  "mod-overrides": {
+    "krastorio2-assets-ultracube": {"name": "Ultracube"}
+  },
+  "entity-overrides": {
+    "cube-boiler": {"mods": ["Ultracube"]},
+    "cube-chemical-plant": {"mods": ["Ultracube"]},
+    "cube-distillery": {"mods": ["Ultracube"]},
+    "cube-electric-furnace": {"mods": ["Ultracube"]},
+    "cube-heavy-turbine": {"mods": ["Ultracube"]},
+    "cube-logistic-robot-0": {"mods": ["Ultracube"]},
+    "cube-logistic-robot-1": {"mods": ["Ultracube"]},
+    "cube-mystery-furnace": {"mods": ["Ultracube"]},
+    "cube-nuclear-reactor": {"mods": ["Ultracube"]}
+  },
+  "tile-overrides": {}
 }
