@@ -8,8 +8,6 @@
     "elevated-rails"
   ],
   "mod-overrides": {},
-  "entity-overrides": {
-    "y_water_mixer": null
-  },
+  "entity-overrides": {"y_water_mixer": null},
   "tile-overrides": {}
 }
