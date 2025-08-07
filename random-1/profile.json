@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "mods": [
+    "Dequalitier = 1.0.0",
+    "augmentor = 1.0.2",
+    "quality-down-binning = 0.5.0",
+    "deadlock-beltboxes-loaders = 2.6.0",
+    "quantum-fabricator = 2.6.7",
+    "Kux-SmartLinkedChests = 3.3.6",
+    "Repair_Turret = 2.0.4",
+    "Teleportation_Redux = 2.0.2",
+    "Mining_Drones = 2.0.2",
+    "quality"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "dedigitizer-reactor": {"mods": ["quantum-fabricator"]}
+  },
+  "tile-overrides": {}
+}
