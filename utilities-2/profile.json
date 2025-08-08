@@ -8,11 +8,14 @@
     "valves = 2.0.6",
     "cybersyn = 2.0.28",
     "cybersyn-combinator = 2.7.3",
+    "switch-button = 0.2.3",
     "space-age",
     "quality",
     "elevated-rails"
   ],
-  "mod-overrides": {},
+  "mod-overrides": {
+    "switch-button": {"title": "Switch Button"}
+  },
   "entity-overrides": {
     "textplate-large-concrete": {"rendering": "textplates.TextPlateRendering"},
     "textplate-large-copper": {"rendering": "textplates.TextPlateRendering"},
