@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "mods": ["Krastorio2 = 2.0.6"],
+  "mod-overrides": {
+    "Krastorio2Assets": {"name": "Krastorio2"}
+  },
+  "entity-overrides": {
+    "kr-advanced-tank": null,
+    "kr-legacy-steel-pipe-to-ground": {"mods": ["Krastorio2"]},
+    "roboport-construction-mode": {"mods": ["Krastorio2"]},
+    "roboport-logistic-mode": {"mods": ["Krastorio2"]}
+  },
+  "tile-overrides": {}
+}
