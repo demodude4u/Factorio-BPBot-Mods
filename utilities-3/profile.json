@@ -10,11 +10,21 @@
     "Repair_Turret = 2.0.4",
     "Teleportation_Redux = 2.0.2",
     "Mining_Drones = 2.0.2",
+    "factorissimo-2-notnotmelon = 3.9.5",
+    "Inventory Sensor = 2.0.6",
+    "quality-condenser = 1.3.1",
+    "KS_Power = 2.0.0",
+    "miniloader-redux = 0.9.1",
+    "baketorio = 2.0.15",
+    "SourceSinkPushPull = 0.4.9",
     "quality"
   ],
   "mod-overrides": {},
   "entity-overrides": {
-    "dedigitizer-reactor": {"mods": ["quantum-fabricator"]}
+    "dedigitizer-reactor": {"mods": ["quantum-fabricator"]},
+    "factory-overlay-controller": {"mods": ["factorissimo-2-notnotmelon"]},
+    "factory-blueprint-anchor": {"mods": ["factorissimo-2-notnotmelon"]}
+
   },
   "tile-overrides": {}
 }
