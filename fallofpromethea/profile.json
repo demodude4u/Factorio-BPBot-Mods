@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "mods": [
+    "fall-of-promethea = 0.1.9",
+    "space-age",
+    "elevated-rails",
+    "quality"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "promethium-bcr-panel": {"mods": ["fall-of-promethea"]},
+    "promethium-wall": {"mods": ["fall-of-promethea"]}
+  },
+  "tile-overrides": {}
+}

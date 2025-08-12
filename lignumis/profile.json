@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "mods": [
+    "lignumis = 1.0.57",
+    "space-age",
+    "elevated-rails",
+    "quality"
+  ],
+  "mod-overrides": {
+    "lignumis-assets": {"name": "lignumis"},
+    "mf-buildings-graphics-1": {"name": "lignumis"},
+    "mf-logistics-graphics-1": {"name": "lignumis"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}

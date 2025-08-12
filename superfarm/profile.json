@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "mods": ["fruit = 1.52.0"],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
