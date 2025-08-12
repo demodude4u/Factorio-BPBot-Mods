@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "mods": [
+    "Age-of-Production = 1.7.4",
+    "space-age",
+    "elevated-rails",
+    "quality"
+  ],
+  "mod-overrides": {
+    "Age-of-Production-Graphics": {"name": "Age-of-Production"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
