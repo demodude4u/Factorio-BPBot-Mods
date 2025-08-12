@@ -9,6 +9,8 @@
     "cybersyn = 2.0.28",
     "cybersyn-combinator = 2.7.3",
     "switch-button = 0.2.3",
+    "Flow Control = 3.2.3",
+    "elevated-pipes = 1.4.2",
     "space-age",
     "quality",
     "elevated-rails"
