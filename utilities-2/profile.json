@@ -11,6 +11,9 @@
     "switch-button = 0.2.3",
     "Flow Control = 3.2.3",
     "elevated-pipes = 1.4.2",
+    "SourceSinkPushPull = 0.4.9",
+    "underground-pipe-pack = 2.0.6",
+    "nixie-tubes = 2.0.2",
     "space-age",
     "quality",
     "elevated-rails"
@@ -19,6 +22,9 @@
     "switch-button": {"title": "Switch Button"}
   },
   "entity-overrides": {
+    "nixie-tube": {"rendering": "nixietubes.NixieTubeRendering"},
+    "nixie-tube-alpha": {"rendering": "nixietubes.NixieTubeAlphaRendering"},
+    "nixie-tube-small": {"rendering": "nixietubes.NixieTubeSmallRendering"},
     "textplate-large-concrete": {"rendering": "textplates.TextPlateRendering"},
     "textplate-large-copper": {"rendering": "textplates.TextPlateRendering"},
     "textplate-large-glass": {"rendering": "textplates.TextPlateRendering"},

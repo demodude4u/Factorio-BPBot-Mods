@@ -2,8 +2,7 @@
   "enabled": true,
   "mods": [
     "creative-mod = 2.1.3",
-    "EditorExtensions = 2.5.0",
-    "nixie-tubes = 2.0.2"
+    "EditorExtensions = 2.5.0"
   ],
   "mod-overrides": {},
   "entity-overrides": {
@@ -58,10 +57,7 @@
     "ee-super-pump": {"mods": ["EditorExtensions"]},
     "ee-super-radar": {"mods": ["EditorExtensions"]},
     "ee-super-roboport": {"mods": ["EditorExtensions"]},
-    "ee-super-substation": {"mods": ["EditorExtensions"]},
-    "nixie-tube": {"rendering": "nixietubes.NixieTubeRendering"},
-    "nixie-tube-alpha": {"rendering": "nixietubes.NixieTubeAlphaRendering"},
-    "nixie-tube-small": {"rendering": "nixietubes.NixieTubeSmallRendering"}
+    "ee-super-substation": {"mods": ["EditorExtensions"]}
   },
   "tile-overrides": {}
 }
