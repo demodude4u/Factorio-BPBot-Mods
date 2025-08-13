@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "mods": [
+    "better-quality = 2.4.1"
+  ],
+  "mod-overrides": {
+    "base": {"name": "better-quality"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
