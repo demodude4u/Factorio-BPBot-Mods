@@ -25,12 +25,8 @@
     "pyraworesgraphics": {"name": "pyrawores"}
   },
   "entity-overrides": {
-    "hawt-turbine-mk01-blank": {"rendering": "py.TurbineRendering"},
-    "hawt-turbine-mk02-blank": {"rendering": "py.TurbineRendering"},
-    "hawt-turbine-mk03-blank": {"rendering": "py.TurbineRendering"},
-    "hawt-turbine-mk04-blank": {"rendering": "py.TurbineRendering"},
-    "multiblade-turbine-mk01-blank": {"rendering": "py.TurbineRendering"},
-    "multiblade-turbine-mk03-blank": {"rendering": "py.TurbineRendering"}
+    "hawt-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
+    "multiblade-turbine-mk*-blank": {"rendering": "py.TurbineRendering"}
   },
   "tile-overrides": {
     "acid-refined-concrete": {"mods": ["pyindustry"]},
