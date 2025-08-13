@@ -14,10 +14,7 @@
     "5dim_equipment = 2.0.7",
     "5dim_module = 2.0.8",
     "5dim_enemies = 2.0.2",
-    "5dim_infiniteresearch = 2.0.2",
-    "space-age",
-    "quality",
-    "elevated-rails"
+    "5dim_infiniteresearch = 2.0.2"
   ],
   "mod-overrides": {},
   "entity-overrides": {

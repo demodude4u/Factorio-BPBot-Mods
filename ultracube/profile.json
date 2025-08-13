@@ -1,8 +1,7 @@
 {
   "enabled": true,
   "mods": [
-    "Ultracube = 0.6.9",
-    "elevated-rails"
+    "Ultracube = 0.6.9"
   ],
   "mod-overrides": {"krastorio2-assets-ultracube": {"name": "Ultracube"}},
   "entity-overrides": {

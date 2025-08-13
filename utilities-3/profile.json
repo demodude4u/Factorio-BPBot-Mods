@@ -17,7 +17,7 @@
     "miniloader-redux = 0.9.1",
     "baketorio = 2.0.15",
     "SourceSinkPushPull = 0.4.9",
-    "quality"
+    "HeroTurretRedux = 1.0.30"
   ],
   "mod-overrides": {},
   "entity-overrides": {

@@ -1,10 +1,7 @@
 {
   "enabled": true,
   "mods": [
-    "lignumis = 1.0.57",
-    "space-age",
-    "elevated-rails",
-    "quality"
+    "lignumis = 1.0.57"
   ],
   "mod-overrides": {
     "lignumis-assets": {"name": "lignumis"},

@@ -14,9 +14,7 @@
     "SourceSinkPushPull = 0.4.9",
     "underground-pipe-pack = 2.0.6",
     "nixie-tubes = 2.0.2",
-    "space-age",
-    "quality",
-    "elevated-rails"
+    "underground-power-lines = 0.8.2"
   ],
   "mod-overrides": {
     "switch-button": {"title": "Switch Button"}

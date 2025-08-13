@@ -2,10 +2,7 @@
   "enabled": true,
   "mods": [
     "dw-frozen-reaches = 0.3.5",
-    "dredgeworks = 0.8.10",
-    "space-age",
-    "elevated-rails",
-    "quality"
+    "dredgeworks = 0.8.10"
   ],
   "mod-overrides": {
     "dredgeworks-graphics": {"name": "dredgeworks"}

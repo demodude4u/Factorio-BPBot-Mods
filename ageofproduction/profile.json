@@ -1,10 +1,7 @@
 {
   "enabled": true,
   "mods": [
-    "Age-of-Production = 1.7.4",
-    "space-age",
-    "elevated-rails",
-    "quality"
+    "Age-of-Production = 1.7.4"
   ],
   "mod-overrides": {
     "Age-of-Production-Graphics": {"name": "Age-of-Production"}

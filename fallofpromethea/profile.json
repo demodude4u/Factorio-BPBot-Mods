@@ -1,10 +1,7 @@
 {
   "enabled": true,
   "mods": [
-    "fall-of-promethea = 0.1.9",
-    "space-age",
-    "elevated-rails",
-    "quality"
+    "fall-of-promethea = 0.1.9"
   ],
   "mod-overrides": {},
   "entity-overrides": {
