@@ -14,7 +14,10 @@
     "SourceSinkPushPull = 0.4.9",
     "underground-pipe-pack = 2.0.6",
     "nixie-tubes = 2.0.2",
-    "underground-power-lines = 0.8.2"
+    "underground-power-lines = 0.8.2",
+    "inserter-cranes-fork = 0.0.9",
+    "WideChests = 6.2.4",
+    "WideChestsLogistic = 3.1.0"
   ],
   "mod-overrides": {
     "switch-button": {"title": "Switch Button"}
@@ -23,24 +26,7 @@
     "nixie-tube": {"rendering": "nixietubes.NixieTubeRendering"},
     "nixie-tube-alpha": {"rendering": "nixietubes.NixieTubeAlphaRendering"},
     "nixie-tube-small": {"rendering": "nixietubes.NixieTubeSmallRendering"},
-    "textplate-large-concrete": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-copper": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-glass": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-gold": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-iron": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-plastic": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-steel": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-stone": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-large-uranium": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-concrete": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-copper": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-glass": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-gold": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-iron": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-plastic": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-steel": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-stone": {"rendering": "textplates.TextPlateRendering"},
-    "textplate-small-uranium": {"rendering": "textplates.TextPlateRendering"}
+    "textplate-*": {"rendering": "textplates.TextPlateRendering"}
   },
   "tile-overrides": {}
 }

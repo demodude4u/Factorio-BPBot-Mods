@@ -17,14 +17,19 @@
     "miniloader-redux = 0.9.1",
     "baketorio = 2.0.15",
     "SourceSinkPushPull = 0.4.9",
-    "HeroTurretRedux = 1.0.30"
+    "HeroTurretRedux = 1.0.30",
+    "PerfectPump = 0.1.0",
+    "the-one-mod-with-underground-bits = 0.1.26",
+    "flow-config = 2.1.4"
   ],
   "mod-overrides": {},
   "entity-overrides": {
     "dedigitizer-reactor": {"mods": ["quantum-fabricator"]},
     "factory-overlay-controller": {"mods": ["factorissimo-2-notnotmelon"]},
-    "factory-blueprint-anchor": {"mods": ["factorissimo-2-notnotmelon"]}
-
+    "factory-blueprint-anchor": {"mods": ["factorissimo-2-notnotmelon"]},
+    "tomwub-pipe": {"mods": ["the-one-mod-with-underground-bits"]},
+    "tomwub-pipe-*": {"mods-append": ["the-one-mod-with-underground-bits"]},
+    "*-fc-*": {"mods-append": ["flow-config"]}
   },
   "tile-overrides": {}
 }

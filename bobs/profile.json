@@ -18,7 +18,8 @@
     "bobrevamp = 2.0.3",
     "bobtech = 2.0.2",
     "bobvehicleequipment = 2.0.2",
-    "bobwarfare = 2.0.3"
+    "bobwarfare = 2.0.3",
+    "WideChestsBobs = 2.0.0"
   ],
   "mod-overrides": {},
   "entity-overrides": {

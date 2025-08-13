@@ -9,7 +9,8 @@
     "pyindustry = 3.0.18",
     "pypetroleumhandling = 3.0.20",
     "pypostprocessing = 3.0.35",
-    "pyrawores = 3.0.22"
+    "pyrawores = 3.0.22",
+    "InserterCranes-for-pymods = 1.0.6"
   ],
   "mod-overrides": {
     "pyalienlifegraphics": {"name": "pyalienlife"},
