@@ -2,7 +2,7 @@
   "enabled": true,
   "mods": ["Krastorio2 = 2.0.6"],
   "mod-overrides": {
-    "Krastorio2Assets": {"name": "Krastorio2"}
+    "Krastorio2Assets": {"redirect": "Krastorio2"}
   },
   "entity-overrides": {
     "kr-advanced-tank": null,

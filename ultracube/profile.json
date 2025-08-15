@@ -3,7 +3,7 @@
   "mods": [
     "Ultracube = 0.6.9"
   ],
-  "mod-overrides": {"krastorio2-assets-ultracube": {"name": "Ultracube"}},
+  "mod-overrides": {"krastorio2-assets-ultracube": {"redirect": "Ultracube"}},
   "entity-overrides": {
     "cube-boiler": {"mods": ["Ultracube"]},
     "cube-chemical-plant": {"mods": ["Ultracube"]},

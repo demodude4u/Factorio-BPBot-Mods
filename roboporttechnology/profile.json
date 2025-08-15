@@ -2,7 +2,7 @@
   "enabled": true,
   "mods": ["bot-batteries-technologies = 3.1.0"],
   "mod-overrides": {
-    "base": {"name": "bot-batteries-technologies"}
+    "base": {"redirect": "bot-batteries-technologies"}
   },
   "entity-overrides": {},
   "tile-overrides": {}

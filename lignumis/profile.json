@@ -6,9 +6,9 @@
     "WideChestsAllTypes = 2.0.0"
   ],
   "mod-overrides": {
-    "lignumis-assets": {"name": "lignumis"},
-    "mf-buildings-graphics-1": {"name": "lignumis"},
-    "mf-logistics-graphics-1": {"name": "lignumis"}
+    "lignumis-assets": {"redirect": "lignumis"},
+    "mf-buildings-graphics-1": {"redirect": "lignumis"},
+    "mf-logistics-graphics-1": {"redirect": "lignumis"}
   },
   "entity-overrides": {},
   "tile-overrides": {}

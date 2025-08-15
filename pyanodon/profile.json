@@ -13,16 +13,16 @@
     "InserterCranes-for-pymods = 1.0.6"
   ],
   "mod-overrides": {
-    "pyalienlifegraphics": {"name": "pyalienlife"},
-    "pyalienlifegraphics2": {"name": "pyalienlife"},
-    "pyalienlifegraphics3": {"name": "pyalienlife"},
-    "pyalternativeenergygraphics": {"name": "pyalternativeenergy"},
-    "pycoalprocessinggraphics": {"name": "pycoalprocessing"},
-    "pyfusionenergygraphics": {"name": "pyfusionenergy"},
-    "pyhightechgraphics": {"name": "pyhightech"},
-    "pyindustrygraphics": {"name": "pyindustry"},
-    "pypetroleumhandlinggraphics": {"name": "pypetroleumhandling"},
-    "pyraworesgraphics": {"name": "pyrawores"}
+    "pyalienlifegraphics": {"redirect": "pyalienlife"},
+    "pyalienlifegraphics2": {"redirect": "pyalienlife"},
+    "pyalienlifegraphics3": {"redirect": "pyalienlife"},
+    "pyalternativeenergygraphics": {"redirect": "pyalternativeenergy"},
+    "pycoalprocessinggraphics": {"redirect": "pycoalprocessing"},
+    "pyfusionenergygraphics": {"redirect": "pyfusionenergy"},
+    "pyhightechgraphics": {"redirect": "pyhightech"},
+    "pyindustrygraphics": {"redirect": "pyindustry"},
+    "pypetroleumhandlinggraphics": {"redirect": "pypetroleumhandling"},
+    "pyraworesgraphics": {"redirect": "pyrawores"}
   },
   "entity-overrides": {
     "hawt-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},

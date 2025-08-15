@@ -5,7 +5,7 @@
     "dredgeworks = 0.8.10"
   ],
   "mod-overrides": {
-    "dredgeworks-graphics": {"name": "dredgeworks"}
+    "dredgeworks-graphics": {"redirect": "dredgeworks"}
   },
   "entity-overrides": {},
   "tile-overrides": {}

@@ -4,8 +4,8 @@
     "rubia = 0.69.98"
   ],
   "mod-overrides": {
-    "rubia-assets": {"name": "rubia"},
-    "base": {"name": "rubia"}
+    "rubia-assets": {"redirect": "rubia"},
+    "base": {"redirect": "rubia"}
   },
   "entity-overrides": {},
   "tile-overrides": {}
