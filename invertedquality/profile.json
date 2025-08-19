@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "mods": ["Inverted-Quality = 1.4.4"],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}

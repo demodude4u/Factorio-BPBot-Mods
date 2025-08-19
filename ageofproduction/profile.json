@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "mods": [
+    "Age-of-Production = 1.7.4"
+  ],
+  "mod-overrides": {
+    "Age-of-Production-Graphics": {"redirect": "Age-of-Production"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}

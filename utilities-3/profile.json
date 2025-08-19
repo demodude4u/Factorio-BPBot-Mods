@@ -1,0 +1,35 @@
+{
+  "enabled": true,
+  "mods": [
+    "Dequalitier = 1.0.0",
+    "augmentor = 1.0.2",
+    "quality-down-binning = 0.5.0",
+    "deadlock-beltboxes-loaders = 2.6.0",
+    "quantum-fabricator = 2.6.7",
+    "Kux-SmartLinkedChests = 3.3.6",
+    "Repair_Turret = 2.0.4",
+    "Teleportation_Redux = 2.0.2",
+    "Mining_Drones = 2.0.2",
+    "factorissimo-2-notnotmelon = 3.9.5",
+    "Inventory Sensor = 2.0.6",
+    "quality-condenser = 1.3.1",
+    "KS_Power = 2.0.0",
+    "miniloader-redux = 0.9.1",
+    "baketorio = 2.0.15",
+    "SourceSinkPushPull = 0.4.9",
+    "HeroTurretRedux = 1.0.30",
+    "PerfectPump = 0.1.0",
+    "the-one-mod-with-underground-bits = 0.1.26",
+    "flow-config = 2.1.4"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "dedigitizer-reactor": {"mods": ["quantum-fabricator"]},
+    "factory-overlay-controller": {"mods": ["factorissimo-2-notnotmelon"]},
+    "factory-blueprint-anchor": {"mods": ["factorissimo-2-notnotmelon"]},
+    "tomwub-pipe": {"mods": ["the-one-mod-with-underground-bits"]},
+    "tomwub-pipe-*": {"mods-append": ["the-one-mod-with-underground-bits"]},
+    "*-fc-*": {"mods-append": ["flow-config"]}
+  },
+  "tile-overrides": {}
+}

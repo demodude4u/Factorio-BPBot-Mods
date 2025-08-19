@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "mods": [
+    "5dim_energy = 2.0.6",
+    "5dim_automation = 2.0.2",
+    "5dim_transport = 2.0.18",
+    "5dim_mining = 2.0.3",
+    "5dim_nuclear = 2.0.3",
+    "5dim_battlefield = 2.0.4",
+    "5dim_trains = 2.0.2",
+    "5dim_logistic = 2.0.2",
+    "5dim_resources = 2.0.5",
+    "5dim_storage = 2.0.3",
+    "5dim_equipment = 2.0.7",
+    "5dim_module = 2.0.8",
+    "5dim_enemies = 2.0.2",
+    "5dim_infiniteresearch = 2.0.2"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "5d-heat-pipe-02": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-03": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-04": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-05": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-06": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-07": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-08": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-09": {"mods": ["5dim_nuclear"]},
+    "5d-heat-pipe-10": {"mods": ["5dim_nuclear"]}
+  },
+  "tile-overrides": {}
+}

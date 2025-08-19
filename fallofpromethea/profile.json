@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "mods": [
+    "fall-of-promethea = 0.1.9"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {
+    "promethium-bcr-panel": {"mods": ["fall-of-promethea"]},
+    "promethium-wall": {"mods": ["fall-of-promethea"]}
+  },
+  "tile-overrides": {}
+}

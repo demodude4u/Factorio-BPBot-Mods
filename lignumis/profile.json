@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "mods": [
+    "lignumis = 1.0.57",
+    "WideChests = 6.2.4",
+    "WideChestsAllTypes = 2.0.0"
+  ],
+  "mod-overrides": {
+    "lignumis-assets": {"redirect": "lignumis"},
+    "mf-buildings-graphics-1": {"redirect": "lignumis"},
+    "mf-logistics-graphics-1": {"redirect": "lignumis"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}

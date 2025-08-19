@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "mods": [
+    "Ultracube = 0.6.9"
+  ],
+  "mod-overrides": {"krastorio2-assets-ultracube": {"redirect": "Ultracube"}},
+  "entity-overrides": {
+    "cube-boiler": {"mods": ["Ultracube"]},
+    "cube-chemical-plant": {"mods": ["Ultracube"]},
+    "cube-distillery": {"mods": ["Ultracube"]},
+    "cube-electric-furnace": {"mods": ["Ultracube"]},
+    "cube-heavy-turbine": {"mods": ["Ultracube"]},
+    "cube-logistic-robot-0": {"mods": ["Ultracube"]},
+    "cube-logistic-robot-1": {"mods": ["Ultracube"]},
+    "cube-mystery-furnace": {"mods": ["Ultracube"]},
+    "cube-nuclear-reactor": {"mods": ["Ultracube"]}
+  },
+  "tile-overrides": {}
+}

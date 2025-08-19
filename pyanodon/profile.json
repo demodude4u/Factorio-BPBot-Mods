@@ -1,0 +1,46 @@
+{
+  "enabled": true,
+  "mods": [
+    "pyalienlife = 3.0.50",
+    "pyalternativeenergy = 3.1.32",
+    "pycoalprocessing = 3.0.40",
+    "pyfusionenergy = 3.0.15",
+    "pyhightech = 3.0.16",
+    "pyindustry = 3.0.18",
+    "pypetroleumhandling = 3.0.20",
+    "pypostprocessing = 3.0.35",
+    "pyrawores = 3.0.22",
+    "InserterCranes-for-pymods = 1.0.6",
+    "pycranes = 1.0.5"
+  ],
+  "mod-overrides": {
+    "pyalienlifegraphics": {"redirect": "pyalienlife"},
+    "pyalienlifegraphics2": {"redirect": "pyalienlife"},
+    "pyalienlifegraphics3": {"redirect": "pyalienlife"},
+    "pyalternativeenergygraphics": {"redirect": "pyalternativeenergy"},
+    "pycoalprocessinggraphics": {"redirect": "pycoalprocessing"},
+    "pyfusionenergygraphics": {"redirect": "pyfusionenergy"},
+    "pyhightechgraphics": {"redirect": "pyhightech"},
+    "pyindustrygraphics": {"redirect": "pyindustry"},
+    "pypetroleumhandlinggraphics": {"redirect": "pypetroleumhandling"},
+    "pyraworesgraphics": {"redirect": "pyrawores"}
+  },
+  "entity-overrides": {
+    "hawt-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
+    "multiblade-turbine-mk*-blank": {"rendering": "py.TurbineRendering"}
+  },
+  "tile-overrides": {
+    "acid-refined-concrete": {"mods": ["pyindustry"]},
+    "black-refined-concrete": {"mods": ["pyindustry"]},
+    "blue-refined-concrete": {"mods": ["pyindustry"]},
+    "brown-refined-concrete": {"mods": ["pyindustry"]},
+    "cyan-refined-concrete": {"mods": ["pyindustry"]},
+    "green-refined-concrete": {"mods": ["pyindustry"]},
+    "lab-white": {"mods": ["pyindustry"]},
+    "orange-refined-concrete": {"mods": ["pyindustry"]},
+    "pink-refined-concrete": {"mods": ["pyindustry"]},
+    "purple-refined-concrete": {"mods": ["pyindustry"]},
+    "red-refined-concrete": {"mods": ["pyindustry"]},
+    "yellow-refined-concrete": {"mods": ["pyindustry"]}
+  }
+}

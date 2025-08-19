@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "mods": [
+    "rubia = 0.69.98"
+  ],
+  "mod-overrides": {
+    "rubia-assets": {"redirect": "rubia"},
+    "base": {"redirect": "rubia"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}

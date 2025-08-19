@@ -1,0 +1,40 @@
+{
+  "enabled": true,
+  "mods": [
+    "color-coded-pipes = 1.4.0",
+    "FluidMustFlow = 1.4.3",
+    "pushbutton = 2.0.4",
+    "textplates = 0.7.2",
+    "valves = 2.0.6",
+    "cybersyn = 2.0.28",
+    "cybersyn-combinator = 2.7.3",
+    "switch-button = 0.2.3",
+    "Flow Control = 3.2.3",
+    "elevated-pipes = 1.4.2",
+    "SourceSinkPushPull = 0.4.9",
+    "underground-pipe-pack = 2.0.6",
+    "nixie-tubes = 2.0.2",
+    "underground-power-lines = 0.8.2",
+    "inserter-cranes-fork = 0.0.9",
+    "WideChests = 6.2.4",
+    "WideChestsLogistic = 3.1.0",
+    "heat-sensor = 0.1.1",
+    "offshore-burner = 1.0.1",
+    "QualityRockets = 1.0.9",
+    "air-filtering = 0.9.5",
+    "fcpu = 0.4.33"
+  ],
+  "mod-overrides": {
+    "switch-button": {"title": "Switch Button"}
+  },
+  "entity-overrides": {
+    "nixie-tube": {"rendering": "nixietubes.NixieTubeRendering"},
+    "nixie-tube-alpha": {"rendering": "nixietubes.NixieTubeAlphaRendering"},
+    "nixie-tube-small": {"rendering": "nixietubes.NixieTubeSmallRendering"},
+    "textplate-*": {"rendering": "textplates.TextPlateRendering"},
+    "heat-sensor": {"mods":["heat-sensor"]},
+    "*-offshore-pump": {"mods":["offshore-burner"]},
+    "*-rocket-silo": {"mods":["QualityRockets"]}
+  },
+  "tile-overrides": {}
+}
