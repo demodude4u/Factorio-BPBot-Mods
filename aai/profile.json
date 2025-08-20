@@ -10,7 +10,8 @@
     "aai-signals = 0.7.1",
     "aai-zones = 0.7.2",
     "equipment-gantry = 0.2.3",
-    "shield-projector = 0.2.2"
+    "shield-projector = 0.2.2",
+    "space-age"
   ],
   "mod-overrides": {},
   "entity-overrides": {},

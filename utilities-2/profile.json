@@ -22,7 +22,8 @@
     "offshore-burner = 1.0.1",
     "QualityRockets = 1.0.9",
     "air-filtering = 0.9.5",
-    "fcpu = 0.4.33"
+    "fcpu = 0.4.33",
+    "loaders-modernized = 1.0.2"
   ],
   "mod-overrides": {
     "switch-button": {"title": "Switch Button"}
