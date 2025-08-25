@@ -35,7 +35,8 @@
     "textplate-*": {"rendering": "textplates.TextPlateRendering"},
     "heat-sensor": {"mods":["heat-sensor"]},
     "*-offshore-pump": {"mods":["offshore-burner"]},
-    "*-rocket-silo": {"mods":["QualityRockets"]}
+    "*-rocket-silo": {"mods":["QualityRockets"]},
+    "elevated-pipe": {"rendering": "elevatedpipes.ElevatedPipeRendering"}
   },
   "tile-overrides": {}
 }
