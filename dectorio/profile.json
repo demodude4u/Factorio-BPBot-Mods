@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "mods": ["Dectorio"],
+  "mod-overrides": {
+    "base": {"redirect": "Dectorio"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
