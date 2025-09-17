@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mods": [
+    "Voidcraft = 2.3.0",
+    "VoidBlock = 1.1.14"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
