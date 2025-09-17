@@ -1,8 +1,10 @@
 {
   "enabled": true,
   "mods": [
+    "5dim_core = 2.0.39",
     "5dim_energy = 2.0.6",
     "5dim_automation = 2.0.2",
+    "bobinserters = 2.0.1",
     "5dim_transport = 2.0.18",
     "5dim_mining = 2.0.3",
     "5dim_nuclear = 2.0.3",

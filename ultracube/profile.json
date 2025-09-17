@@ -1,6 +1,8 @@
 {
   "enabled": true,
   "mods": [
+    "aai-loaders = 0.2.7",
+    "krastorio2-assets-ultracube = 2.0.0",
     "Ultracube = 0.6.9"
   ],
   "mod-overrides": {"krastorio2-assets-ultracube": {"redirect": "Ultracube"}},

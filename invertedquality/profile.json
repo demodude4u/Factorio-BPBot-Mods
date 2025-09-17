@@ -1,6 +1,10 @@
 {
   "enabled": true,
-  "mods": ["Inverted-Quality = 1.4.4"],
+  "mods": [
+    "PlanetsLib = 1.13.1",
+    "quality-cursor = 0.1.2",
+    "Inverted-Quality = 1.5.0"
+  ],
   "mod-overrides": {},
   "entity-overrides": {},
   "tile-overrides": {}

@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "mods": [
+    "boblibrary = 2.0.1",
     "bobassembly = 2.0.2",
     "bobclasses = 2.0.3",
     "bobelectronics = 2.0.3",
@@ -8,7 +9,6 @@
     "bobequipment = 2.0.1",
     "bobgreenhouse = 2.0.1",
     "bobinserters = 2.0.1",
-    "boblibrary = 2.0.1",
     "boblogistics = 2.0.3",
     "bobmining = 2.0.2",
     "bobmodules = 2.0.3",
@@ -19,6 +19,8 @@
     "bobtech = 2.0.2",
     "bobvehicleequipment = 2.0.2",
     "bobwarfare = 2.0.3",
+    "flib = 0.16.3",
+    "WideChests = 6.2.4",
     "WideChestsBobs = 2.0.0"
   ],
   "mod-overrides": {},

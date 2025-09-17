@@ -1,11 +1,10 @@
 {
   "enabled": true,
   "mods": [
+    "quality-lib = 2.2.0",
     "better-quality = 2.4.1"
   ],
-  "mod-overrides": {
-    "base": {"redirect": "better-quality"}
-  },
+  "mod-overrides": {"base": {"redirect": "better-quality"}},
   "entity-overrides": {},
   "tile-overrides": {}
 }

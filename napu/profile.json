@@ -1,11 +1,7 @@
 {
   "enabled": true,
-  "mods": ["NapusMod"],
-  "mod-overrides": {
-    "base": {
-      "redirect": "NapusMod"
-    }
-  },
+  "mods": ["NapusMod = 2.1.2"],
+  "mod-overrides": {"base": {"redirect": "NapusMod"}},
   "entity-overrides": {},
   "tile-overrides": {}
 }

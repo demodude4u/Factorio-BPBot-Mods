@@ -1,9 +1,7 @@
 {
   "enabled": true,
-  "mods": ["Dectorio"],
-  "mod-overrides": {
-    "base": {"redirect": "Dectorio"}
-  },
+  "mods": ["Dectorio = 0.13.1"],
+  "mod-overrides": {"base": {"redirect": "Dectorio"}},
   "entity-overrides": {},
   "tile-overrides": {}
 }

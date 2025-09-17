@@ -1,9 +1,13 @@
 {
   "enabled": true,
-  "mods": ["Krastorio2 = 2.0.6"],
-  "mod-overrides": {
-    "Krastorio2Assets": {"redirect": "Krastorio2"}
-  },
+  "mods": [
+    "Krastorio2Assets = 2.0.3",
+    "Krastorio2MenuSimulations = 2.0.2",
+    "flib = 0.16.3",
+    "ChangeInserterDropLane = 1.1.0",
+    "Krastorio2 = 2.0.8"
+  ],
+  "mod-overrides": {"Krastorio2Assets": {"redirect": "Krastorio2"}},
   "entity-overrides": {
     "kr-advanced-tank": null,
     "kr-legacy-steel-pipe-to-ground": {"mods": ["Krastorio2"]},

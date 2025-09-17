@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "mods": [
-    "yi_engines = 1.2.7",
-    "Yuoki = 1.2.13"
+    "Yuoki = 1.2.15",
+    "yi_engines = 1.2.7"
   ],
   "mod-overrides": {},
   "entity-overrides": {"y_water_mixer": null},

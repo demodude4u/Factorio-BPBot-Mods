@@ -1,17 +1,29 @@
 {
   "enabled": true,
   "mods": [
-    "pyalienlife = 3.0.50",
-    "pyalternativeenergy = 3.1.32",
-    "pycoalprocessing = 3.0.40",
-    "pyfusionenergy = 3.0.15",
-    "pyhightech = 3.0.16",
-    "pyindustry = 3.0.18",
-    "pypetroleumhandling = 3.0.20",
-    "pypostprocessing = 3.0.35",
-    "pyrawores = 3.0.22",
+    "pyalienlifegraphics = 3.0.10",
+    "pyalienlifegraphics2 = 3.0.2",
+    "pyalienlifegraphics3 = 3.0.4",
+    "pycoalprocessinggraphics = 3.0.9",
+    "pypostprocessing = 3.0.39",
+    "pycoalprocessing = 3.0.43",
+    "pyindustry = 3.0.19",
+    "pyindustrygraphics = 3.0.2",
+    "pyraworesgraphics = 3.0.4",
+    "pyrawores = 3.0.24",
+    "pyfusionenergygraphics = 3.0.4",
+    "pyfusionenergy = 3.0.16",
+    "pypetroleumhandlinggraphics = 3.0.5",
+    "pypetroleumhandling = 3.0.21",
+    "pyalienlife = 3.0.59",
+    "pyhightechgraphics = 3.0.2",
+    "pyhightech = 3.0.17",
+    "pyalternativeenergygraphics = 3.0.5",
+    "pyalternativeenergy = 3.1.35",
     "InserterCranes-for-pymods = 1.0.6",
-    "pycranes = 1.0.5"
+    "pycranes = 1.0.5",
+    "pycranes-spdfix = 1.0.4",
+    "PyBlock = 3.2.14"
   ],
   "mod-overrides": {
     "pyalienlifegraphics": {"redirect": "pyalienlife"},
@@ -27,7 +39,8 @@
   },
   "entity-overrides": {
     "hawt-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
-    "multiblade-turbine-mk*-blank": {"rendering": "py.TurbineRendering"}
+    "multiblade-turbine-mk*-blank": {"rendering": "py.TurbineRendering"},
+    "shunt-inserter": {"mods": ["PyBlock"]}
   },
   "tile-overrides": {
     "acid-refined-concrete": {"mods": ["pyindustry"]},

@@ -1,6 +1,11 @@
 {
   "enabled": true,
-  "mods": ["fruit = 1.52.0"],
+  "mods": [
+    "kry_stdlib = 2.0.7",
+    "zoo-animal = 1.0.1",
+    "fruit = 1.52.0",
+    "space-age"
+  ],
   "mod-overrides": {},
   "entity-overrides": {},
   "tile-overrides": {}

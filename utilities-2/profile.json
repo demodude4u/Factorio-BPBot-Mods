@@ -1,19 +1,20 @@
 {
   "enabled": true,
   "mods": [
-    "color-coded-pipes = 1.4.0",
+    "color-coded-pipes = 1.4.2",
     "FluidMustFlow = 1.4.3",
-    "pushbutton = 2.0.4",
+    "pushbutton = 2.0.5",
     "textplates = 0.7.2",
-    "valves = 2.0.6",
-    "cybersyn = 2.0.28",
+    "valves = 2.1.0",
+    "flib = 0.16.3",
+    "cybersyn = 2.0.33",
     "cybersyn-combinator = 2.7.3",
     "switch-button = 0.2.3",
     "Flow Control = 3.2.3",
-    "elevated-pipes = 1.4.2",
+    "elevated-pipes = 1.4.4",
     "SourceSinkPushPull = 0.4.9",
     "underground-pipe-pack = 2.0.6",
-    "nixie-tubes = 2.0.2",
+    "nixie-tubes = 2.0.8",
     "underground-power-lines = 0.8.2",
     "inserter-cranes-fork = 0.0.9",
     "WideChests = 6.2.4",
@@ -23,20 +24,18 @@
     "QualityRockets = 1.0.9",
     "air-filtering = 0.9.5",
     "fcpu = 0.4.33",
-    "loaders-modernized = 1.0.2"
+    "loaders-modernized = 1.0.3"
   ],
-  "mod-overrides": {
-    "switch-button": {"title": "Switch Button"}
-  },
+  "mod-overrides": {"switch-button": {"title": "Switch Button"}},
   "entity-overrides": {
+    "*-offshore-pump": {"mods": ["offshore-burner"]},
+    "*-rocket-silo": {"mods": ["QualityRockets"]},
+    "elevated-pipe": {"rendering": "elevatedpipes.ElevatedPipeRendering"},
+    "heat-sensor": {"mods": ["heat-sensor"]},
     "nixie-tube": {"rendering": "nixietubes.NixieTubeRendering"},
     "nixie-tube-alpha": {"rendering": "nixietubes.NixieTubeAlphaRendering"},
     "nixie-tube-small": {"rendering": "nixietubes.NixieTubeSmallRendering"},
-    "textplate-*": {"rendering": "textplates.TextPlateRendering"},
-    "heat-sensor": {"mods":["heat-sensor"]},
-    "*-offshore-pump": {"mods":["offshore-burner"]},
-    "*-rocket-silo": {"mods":["QualityRockets"]},
-    "elevated-pipe": {"rendering": "elevatedpipes.ElevatedPipeRendering"}
+    "textplate-*": {"rendering": "textplates.TextPlateRendering"}
   },
   "tile-overrides": {}
 }
