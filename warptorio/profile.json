@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "mods": ["warptorio-space-age = 0.2.9"],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
