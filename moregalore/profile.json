@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "mods": [
+    "more-ore = 0.1.2",
+    "more-parts = 0.1.1",
+    "more-alloys = 0.1.11",
+    "more-intermediates = 0.1.0",
+    "more-galore = 0.2.22"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
