@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "mods": [
+    "SpaghetorioGraphics1 = 0.0.5",
+    "EverythingOnNauvis = 0.1.8",
+    "Spaghetorio = 0.3.27"
+  ],
+  "mod-overrides": {
+    "SpaghetorioGraphics1": {"redirect": "Spaghetorio"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
