@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "mods": [
+    "configurable-valves = 0.3.2",
+    "autocraft-logistics = 1.0.0",
+    "Gregtorio = 0.1.9"
+  ],
+  "mod-overrides": {
+    "base": {"redirect": "Gregtorio"}
+  },
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
