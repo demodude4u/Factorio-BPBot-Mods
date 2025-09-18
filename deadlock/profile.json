@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "mods": ["deadlock-beltboxes-loaders = 2.6.0"],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
