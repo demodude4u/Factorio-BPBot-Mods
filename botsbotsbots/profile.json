@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "mods": ["botsbotsbots = 2.1.2"],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
