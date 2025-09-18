@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "mods": [
+    "LogisticTrainNetwork = 2.3.4",
+    "flib = 0.16.3",
+    "LTN_Combinator_Modernized = 2.2.5"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
