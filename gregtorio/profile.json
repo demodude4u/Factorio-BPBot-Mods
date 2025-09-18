@@ -8,6 +8,8 @@
   "mod-overrides": {
     "base": {"redirect": "Gregtorio"}
   },
-  "entity-overrides": {},
+  "entity-overrides": {
+    "configurable-valve": {"mods": ["configurable-valves"]}
+  },
   "tile-overrides": {}
 }
