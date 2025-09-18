@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mods": [
+    "icon-badges = 1.2.2",
+    "galdocs-manufacturing = 1.0.5"
+  ],
+  "mod-overrides": {},
+  "entity-overrides": {},
+  "tile-overrides": {}
+}
