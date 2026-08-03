@@ -1,11 +1,11 @@
 {
   "enabled": true,
   "mods": [
-    "Krastorio2Assets = 2.0.3",
-    "Krastorio2MenuSimulations = 2.0.2",
-    "flib = 0.16.3",
-    "ChangeInserterDropLane = 1.1.0",
-    "Krastorio2 = 2.0.8"
+    "Krastorio2Assets = 2.1.0",
+    "Krastorio2MenuSimulations = 2.1.0",
+    "flib = 0.17.2",
+    "ChangeInserterDropLane = 1.3.0",
+    "Krastorio2 = 2.1.2"
   ],
   "mod-overrides": {"Krastorio2Assets": {"redirect": "Krastorio2"}},
   "entity-overrides": {
